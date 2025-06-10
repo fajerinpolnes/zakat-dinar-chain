@@ -78,21 +78,21 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				gold: {
-					DEFAULT: '#22C55E',
-					50: '#F0FDF4',
-					100: '#DCFCE7',
-					200: '#BBF7D0',
-					300: '#86EFAC',
-					400: '#4ADE80',
-					500: '#22C55E',
-					600: '#16A34A',
-					700: '#15803D',
-					800: '#166534',
-					900: '#14532D'
+					DEFAULT: '#2D8A5C',
+					50: '#E8F5EE',
+					100: '#D1EBDD',
+					200: '#A3D7BB',
+					300: '#75C399',
+					400: '#47AF77',
+					500: '#2D8A5C',
+					600: '#246E49',
+					700: '#1B5337',
+					800: '#123724',
+					900: '#091C12'
 				},
 				islamic: {
 					green: '#005C4B',
-					gold: '#22C55E',
+					gold: '#2D8A5C',
 					cream: '#FAFAFA',
 					teal: '#008B8B'
 				}

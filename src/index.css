@@ -55,7 +55,7 @@
     --popover: 30 41 59;
     --popover-foreground: 248 250 252;
 
-    --primary: 34 197 94;
+    --primary: 45 138 92;
     --primary-foreground: 15 23 42;
 
     --secondary: 51 65 85;
@@ -72,16 +72,16 @@
 
     --border: 51 65 85;
     --input: 51 65 85;
-    --ring: 34 197 94;
+    --ring: 45 138 92;
 
     --sidebar-background: 30 41 59;
     --sidebar-foreground: 248 250 252;
-    --sidebar-primary: 34 197 94;
+    --sidebar-primary: 45 138 92;
     --sidebar-primary-foreground: 15 23 42;
     --sidebar-accent: 51 65 85;
     --sidebar-accent-foreground: 248 250 252;
     --sidebar-border: 51 65 85;
-    --sidebar-ring: 34 197 94;
+    --sidebar-ring: 45 138 92;
   }
 }
 
@@ -96,7 +96,7 @@
 
   .islamic-pattern {
     background-image: 
-      radial-gradient(circle at 25% 25%, rgba(34, 197, 94, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 25% 25%, rgba(45, 138, 92, 0.1) 0%, transparent 50%),
       radial-gradient(circle at 75% 75%, rgba(0, 92, 75, 0.1) 0%, transparent 50%);
   }
 
@@ -111,7 +111,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(45deg, #22C55E, transparent, #005C4B, transparent);
+    background: linear-gradient(45deg, #2D8A5C, transparent, #005C4B, transparent);
     border-radius: inherit;
     padding: 2px;
     mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
