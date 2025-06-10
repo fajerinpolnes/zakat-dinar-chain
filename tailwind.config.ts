@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -30,18 +29,18 @@ export default {
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
 				primary: {
-					DEFAULT: '#005C4B',
+					DEFAULT: '#1e40af',
 					foreground: '#FFFFFF',
-					50: '#E6F2F0',
-					100: '#CCE6E0',
-					200: '#99CCC1',
-					300: '#66B3A2',
-					400: '#339983',
-					500: '#005C4B',
-					600: '#004A3C',
-					700: '#00372D',
-					800: '#00251E',
-					900: '#00120F'
+					50: '#eff6ff',
+					100: '#dbeafe',
+					200: '#bfdbfe',
+					300: '#93c5fd',
+					400: '#60a5fa',
+					500: '#3b82f6',
+					600: '#2563eb',
+					700: '#1d4ed8',
+					800: '#1e40af',
+					900: '#1e3a8a'
 				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
@@ -78,23 +77,23 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				gold: {
-					DEFAULT: '#2D8A5C',
-					50: '#E8F5EE',
-					100: '#D1EBDD',
-					200: '#A3D7BB',
-					300: '#75C399',
-					400: '#47AF77',
-					500: '#2D8A5C',
-					600: '#246E49',
-					700: '#1B5337',
-					800: '#123724',
-					900: '#091C12'
+					DEFAULT: '#2563eb',
+					50: '#eff6ff',
+					100: '#dbeafe',
+					200: '#bfdbfe',
+					300: '#93c5fd',
+					400: '#60a5fa',
+					500: '#3b82f6',
+					600: '#2563eb',
+					700: '#1d4ed8',
+					800: '#1e40af',
+					900: '#1e3a8a'
 				},
 				islamic: {
-					green: '#005C4B',
-					gold: '#2D8A5C',
+					green: '#1e40af',
+					gold: '#2563eb',
 					cream: '#FAFAFA',
-					teal: '#008B8B'
+					teal: '#0ea5e9'
 				}
 			},
 			borderRadius: {
