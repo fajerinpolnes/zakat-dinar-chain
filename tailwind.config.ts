@@ -29,18 +29,18 @@ export default {
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
 				primary: {
-					DEFAULT: '#1e40af',
+					DEFAULT: '#1e3a8a',
 					foreground: '#FFFFFF',
-					50: '#eff6ff',
-					100: '#dbeafe',
-					200: '#bfdbfe',
-					300: '#93c5fd',
-					400: '#60a5fa',
-					500: '#3b82f6',
-					600: '#2563eb',
-					700: '#1d4ed8',
-					800: '#1e40af',
-					900: '#1e3a8a'
+					50: '#f0f4ff',
+					100: '#e0ecff',
+					200: '#c7dbff',
+					300: '#9bb8ff',
+					400: '#6888ff',
+					500: '#3b5cff',
+					600: '#2337f5',
+					700: '#1a2be1',
+					800: '#1e3a8a',
+					900: '#1e3675'
 				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
@@ -77,23 +77,23 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				gold: {
-					DEFAULT: '#2563eb',
-					50: '#eff6ff',
-					100: '#dbeafe',
-					200: '#bfdbfe',
-					300: '#93c5fd',
-					400: '#60a5fa',
-					500: '#3b82f6',
-					600: '#2563eb',
-					700: '#1d4ed8',
-					800: '#1e40af',
-					900: '#1e3a8a'
+					DEFAULT: '#1e3a8a',
+					50: '#f0f4ff',
+					100: '#e0ecff',
+					200: '#c7dbff',
+					300: '#9bb8ff',
+					400: '#6888ff',
+					500: '#3b5cff',
+					600: '#2337f5',
+					700: '#1a2be1',
+					800: '#1e3a8a',
+					900: '#1e3675'
 				},
 				islamic: {
-					green: '#1e40af',
-					gold: '#2563eb',
+					green: '#1e3a8a',
+					gold: '#1e3a8a',
 					cream: '#FAFAFA',
-					teal: '#0ea5e9'
+					teal: '#1e40af'
 				}
 			},
 			borderRadius: {

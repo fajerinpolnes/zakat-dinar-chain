@@ -14,7 +14,7 @@
     --popover: 255 255 255;
     --popover-foreground: 15 23 42;
 
-    --primary: 30 64 175;
+    --primary: 30 58 138;
     --primary-foreground: 255 255 255;
 
     --secondary: 241 245 249;
@@ -31,18 +31,18 @@
 
     --border: 226 232 240;
     --input: 226 232 240;
-    --ring: 30 64 175;
+    --ring: 30 58 138;
 
     --radius: 0.75rem;
 
     --sidebar-background: 255 255 255;
     --sidebar-foreground: 15 23 42;
-    --sidebar-primary: 30 64 175;
+    --sidebar-primary: 30 58 138;
     --sidebar-primary-foreground: 255 255 255;
     --sidebar-accent: 241 245 249;
     --sidebar-accent-foreground: 15 23 42;
     --sidebar-border: 226 232 240;
-    --sidebar-ring: 30 64 175;
+    --sidebar-ring: 30 58 138;
   }
 
   .dark {
@@ -55,8 +55,8 @@
     --popover: 30 41 59;
     --popover-foreground: 248 250 252;
 
-    --primary: 37 99 235;
-    --primary-foreground: 15 23 42;
+    --primary: 30 54 117;
+    --primary-foreground: 248 250 252;
 
     --secondary: 51 65 85;
     --secondary-foreground: 248 250 252;
@@ -72,16 +72,16 @@
 
     --border: 51 65 85;
     --input: 51 65 85;
-    --ring: 37 99 235;
+    --ring: 30 54 117;
 
     --sidebar-background: 30 41 59;
     --sidebar-foreground: 248 250 252;
-    --sidebar-primary: 37 99 235;
-    --sidebar-primary-foreground: 15 23 42;
+    --sidebar-primary: 30 54 117;
+    --sidebar-primary-foreground: 248 250 252;
     --sidebar-accent: 51 65 85;
     --sidebar-accent-foreground: 248 250 252;
     --sidebar-border: 51 65 85;
-    --sidebar-ring: 37 99 235;
+    --sidebar-ring: 30 54 117;
   }
 }
 
@@ -96,8 +96,8 @@
 
   .islamic-pattern {
     background-image: 
-      radial-gradient(circle at 25% 25%, rgba(37, 99, 235, 0.1) 0%, transparent 50%),
-      radial-gradient(circle at 75% 75%, rgba(30, 64, 175, 0.1) 0%, transparent 50%);
+      radial-gradient(circle at 25% 25%, rgba(30, 58, 138, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 75% 75%, rgba(30, 54, 117, 0.1) 0%, transparent 50%);
   }
 
   .geometric-border {
@@ -111,7 +111,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(45deg, #2563eb, transparent, #1e40af, transparent);
+    background: linear-gradient(45deg, #1e3a8a, transparent, #1e3675, transparent);
     border-radius: inherit;
     padding: 2px;
     mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
